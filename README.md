@@ -18,3 +18,7 @@ Interface (StudentI): Defines remote methods accessible to clients:
   AddStudent(Student student): Adds a student.
   getStudentInfo(String id): Retrieves information for a student with the given ID.
   aboveAvgGPA(): Returns a list of students with GPAs above the calculated average.
+
+
+
+  
